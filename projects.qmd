@@ -1,0 +1,66 @@
+---
+title: "Projects"
+subtitle: "Independent, reproducible quantitative-pharmacology projects"
+description: "Reproducible PK/PD, population PK, PBPK and model-based meta-analysis projects, each with data provenance, model structure, diagnostics and results."
+toc: false
+---
+
+Each project below is an independent, reproducible piece of quantitative-pharmacology work with public source code, real data provenance, model structure, diagnostics, and results (or an explicit statement of scope where results are illustrative). Click any card for a full write-up with figures.
+
+```{=html}
+<div class="project-grid">
+  <a class="project-card" href="warfarin.html">
+    <span class="project-tag">POPULATION PK/PD</span>
+    <h3>Warfarin PK/PD Reproduction</h3>
+    <p>Reproduces a published warfarin turnover–E<sub>max</sub> model on real data, then implements the Hamberg genotype–INR structure by simulation and recovers its parameters. <b>6 / 6 verdict parameters reproduced.</b></p>
+    <span class="project-link">View project →</span>
+  </a>
+  <a class="project-card" href="theophylline.html">
+    <span class="project-tag">POPULATION PK</span>
+    <h3>Theophylline Population PK</h3>
+    <p>End-to-end PopPK on the classic <code>Theoph</code> dataset, EDA, NCA, base &amp; IIV models, weight covariate, GOF/VPC diagnostics and clinical simulation, with <code>renv</code>-locked reproducibility.</p>
+    <span class="project-link">View project →</span>
+  </a>
+  <a class="project-card" href="caffeine-pbpk.html">
+    <span class="project-tag">PBPK</span>
+    <h3>Caffeine PBPK</h3>
+    <p>Whole-body perfusion-limited PBPK in <code>mrgsolve</code>, validated against digitized clinical profiles, <b>AAFE ≈ 1.3, 100% within 2-fold</b>, V<sub>ss</sub> ≈ 0.50 L/kg.</p>
+    <span class="project-link">View project →</span>
+  </a>
+  <a class="project-card" href="acetaminophen-mbma.html">
+    <span class="project-tag">MODEL-BASED META-ANALYSIS</span>
+    <h3>Acetaminophen MBMA</h3>
+    <p>Model-based meta-analysis of oral acetaminophen PK from published aggregate data with <code>admixr2</code>, PRISMA-style selection and structural model comparison. Pipeline validated on bridge data.</p>
+    <span class="project-link">View project →</span>
+  </a>
+  <a class="project-card" href="midazolam.html">
+    <span class="project-tag">CLINICAL PK</span>
+    <h3>Midazolam Clinical PK Report</h3>
+    <p>A reproducible clinical pharmacokinetic analysis of midazolam, authored in R and published as a self-contained Quarto report via GitHub Pages.</p>
+    <span class="project-link">View project →</span>
+  </a>
+</div>
+```
+
+## More on GitHub
+
+Source code for every project is public. A few related repositories:
+
+```{=html}
+<div class="tech-row">
+  <a href="https://github.com/pbr26/warfarin_pkpd_reproduction" target="_blank" rel="noopener"><span>warfarin_pkpd_reproduction</span></a>
+  <a href="https://github.com/pbr26/warfarin_pkpd_portfolio" target="_blank" rel="noopener"><span>warfarin_pkpd_portfolio</span></a>
+  <a href="https://github.com/pbr26/Theoph_poppk_portfolio" target="_blank" rel="noopener"><span>Theoph_poppk_portfolio</span></a>
+  <a href="https://github.com/pbr26/caffeine_pbpk_mrgsolve" target="_blank" rel="noopener"><span>caffeine_pbpk_mrgsolve</span></a>
+  <a href="https://github.com/pbr26/MBMA_Acetaminophen_PK" target="_blank" rel="noopener"><span>MBMA_Acetaminophen_PK</span></a>
+  <a href="https://github.com/pbr26/midazolam-pk-report" target="_blank" rel="noopener"><span>midazolam-pk-report</span></a>
+</div>
+```
+
+## How each project is documented
+
+Every major project follows a consistent scientific structure, so the work is useful to pharmacometricians and computational scientists alike:
+
+Scientific question · background · data & provenance · methods · model structure · software · workflow · diagnostics · simulation · results · interpretation · limitations · reproducibility · references · source code.
+
+[GitHub, @pbr26](https://github.com/pbr26) · [Contact](contact.qmd)

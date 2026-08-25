@@ -1,0 +1,49 @@
+---
+title: "About"
+subtitle: "Pharmacokinetics scientist, becoming increasingly computational"
+description: "About Pramod B R, a pharmacokinetics scientist with 5+ years in global CRO drug development, building quantitative, computational and model-informed capability."
+toc: true
+toc-location: right
+toc-title: On this page
+---
+
+## Professional profile
+
+I am a pharmacokinetics scientist with more than five years of experience in global CRO environments, supporting preclinical, translational and early-phase clinical drug development.
+
+Most of my work centres on non-compartmental analysis, exposure and bioavailability assessment, building and QC of PK datasets, PK/PD and population PK workflows, and scientific reporting to regulatory standards. On top of that foundation I am steadily building deeper skills in pharmacometrics, model-informed drug development, exposure–response analysis, R-based NLME workflows, and reproducible computational pharmacology.
+
+## Current role
+
+**Associate Study Coordinator (PK/TK), Labcorp, Bangalore** · *April 2021 – Present*
+
+- Independent non-compartmental PK analysis in Phoenix WinNonlin, across preclinical, translational and early-phase programs.
+- Sponsor-ready PK reporting, quality control and audit support, working closely with bioanalytical, toxicology and sponsor PK teams.
+
+I also help improve day-to-day analysis workflows and train new analysts on PK analysis and reproducible ways of working.
+
+## Earlier experience
+
+**Clinical Research Associate, Navitas Life Sciences, Manipal** · *September 2017 – August 2018*
+
+I coordinated clinical study documentation and operations, carried out source data verification and TMF/CRF review, supported ADR/SAE monitoring and protocol-deviation tracking, and helped with sponsor audits and inspections, all in line with FDA, EMA, CDSCO and ICH-GCP requirements.
+
+**Research Associate (Intern), Vyuhgenics India Pvt Ltd, Bangalore** · *September 2020 – November 2020*
+
+I carried out competitive intelligence and secondary research on pharmaceutical pipelines, therapeutic areas and R&D strategies.
+
+## Education
+
+**M.Pharm (Pharmacology)**, JSS Academy of Higher Education and Research, Mysore · 2020
+
+**B.Pharm**, Rajiv Gandhi University of Health Sciences, Bangalore · 2017
+
+## Scientific & technical interests
+
+Population PK and PK/PD modelling and simulation, exposure–response analysis, model-informed drug development, clinical pharmacokinetics, DMPK and toxicokinetics, PBPK, pharmacometric simulation, R and Python for scientific computing, reproducible research, and AI-assisted scientific workflows.
+
+## How I like to work
+
+> Understand the pharmacology first, build the quantitative model second, and use programming and AI to keep the whole workflow reproducible, scalable and transparent.
+
+[Projects →](projects.qmd) · [Contact →](contact.qmd)

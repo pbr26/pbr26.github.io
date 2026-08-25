@@ -1,0 +1,86 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Pramod B R"
+  description: "Professional portfolio of Pramod B R — pharmacokinetics, pharmacometrics, PK/PD modelling, exposure–response analysis, DMPK/toxicokinetics, R, Python, data science and scientific AI."
+  site-url: "https://pbr26.github.io/"
+  repo-url: "https://github.com/pbr26/pbr26.github.io"
+  favicon: assets/favicon.svg
+  image: assets/og-image.png
+  open-graph: true
+  twitter-card:
+    card-style: summary_large_image
+  page-navigation: true
+  back-to-top-navigation: true
+  search:
+    location: navbar
+    type: overlay
+  reader-mode: false
+
+  navbar:
+    background: "#0a1a2f"
+    foreground: "#ffffff"
+    pinned: true
+    collapse-below: lg
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: pharmacometrics.qmd
+        text: Pharmacometrics
+      - href: data-science.qmd
+        text: Data & Code
+      - href: ai.qmd
+        text: AI & GenAI
+      - href: research.qmd
+        text: Research
+      - href: about.qmd
+        text: About
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/pbr26
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/pramod-b-r
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:brpramod.careers@gmail.com
+        aria-label: Email
+
+  page-footer:
+    border: true
+    left: |
+      **Pramod B R**
+      Pharmacokinetics • Pharmacometrics • Drug Development
+    center:
+      - text: Projects
+        href: projects.qmd
+      - text: Contact
+        href: contact.qmd
+      - text: GitHub
+        href: https://github.com/pbr26
+      - text: LinkedIn
+        href: https://www.linkedin.com/in/pramod-b-r
+    right: "© 2026 Pramod B R · Built with Quarto"
+
+format:
+  html:
+    theme:
+      - cosmo
+    css: styles.css
+    toc: false
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    link-external-icon: false
+    grid:
+      body-width: 1120px
+    lang: en
+
+execute:
+  freeze: auto

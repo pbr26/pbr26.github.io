@@ -1,0 +1,64 @@
+---
+title: "Pharmacometrics"
+subtitle: "Methods, workflow and areas of focus in quantitative pharmacology"
+description: "Pharmacometric methods, NCA, population PK, PK/PD, PBPK and MBMA, organised around a reproducible, diagnostics-driven workflow."
+toc: true
+toc-location: right
+toc-title: On this page
+---
+
+Pharmacometrics turns pharmacological questions into quantitative models that inform dose selection, study design and drug-development decisions. My work applies a consistent, reproducible workflow across non-compartmental, population and mechanistic methods, always anchored to the underlying pharmacology and to model diagnostics.
+
+## The workflow
+
+```{=html}
+<div class="workflow">
+  <span class="wf-step">Scientific question</span><span class="wf-arrow">→</span>
+  <span class="wf-step">Data &amp; curation</span><span class="wf-arrow">→</span>
+  <span class="wf-step">EDA</span><span class="wf-arrow">→</span>
+  <span class="wf-step">Model development</span><span class="wf-arrow">→</span>
+  <span class="wf-step">Diagnostics</span><span class="wf-arrow">→</span>
+  <span class="wf-step">Covariates / sensitivity</span><span class="wf-arrow">→</span>
+  <span class="wf-step">Simulation</span><span class="wf-arrow">→</span>
+  <span class="wf-step">Interpretation</span><span class="wf-arrow">→</span>
+  <span class="wf-step">Reproducible report</span>
+</div>
+```
+
+Each stage feeds the next: a clear question dictates the data specification; exploratory analysis shapes the structural model; diagnostics decide whether the model is trustworthy; covariate and sensitivity analyses probe robustness; and simulation translates the model back into clinically or scientifically meaningful predictions, all captured in a report that regenerates from code.
+
+## Areas of focus
+
+### Non-compartmental analysis (NCA)
+
+Model-independent exposure metrics as the quantitative baseline: concentration–time profiling, C~max~/T~max~, AUC, half-life, clearance and volume, dose normalization and clinical PK interpretation. My professional day-to-day NCA work uses **Phoenix WinNonlin**; the portfolio projects use **PKNCA** in R.
+
+### Population PK
+
+Nonlinear mixed-effects (NLME) modelling: structural model development, inter-individual and residual variability, covariate analysis, model diagnostics and simulation, building models that describe both the typical patient and the spread around them.
+
+### PK/PD & exposure–response
+
+Linking exposure to effect: direct and indirect (turnover) response models, E~max~ relationships, hysteresis, parameter estimation, simulation and sensitivity analysis, the basis for dose–response and dose-decision support.
+
+### PBPK / mechanistic modelling
+
+Physiologically based models with explicit tissue compartments and mechanistic disposition (metabolic and renal clearance), physiological parameterization, exposure prediction and scenario simulation, validated against observed data. *A developing focus area, demonstrated in the [caffeine PBPK](projects/caffeine-pbpk.qmd) project.*
+
+### Model-based meta-analysis (MBMA)
+
+Synthesising evidence across studies from published aggregate data: literature extraction, harmonization, aggregate-data modelling and interpretation of between-study variability, shown in the [acetaminophen MBMA](projects/acetaminophen-mbma.qmd) project.
+
+## Diagnostics I rely on
+
+::: {.panel}
+Goodness-of-fit (DV vs PRED/IPRED, CWRES), visual predictive checks (VPC), η/ε-shrinkage, bootstrap-based parameter uncertainty, and forest plots for covariate effects and reproduction verdicts. A model is only as good as the diagnostics that scrutinise it.
+:::
+
+## Software
+
+::: {.tech-row}
+[Phoenix WinNonlin]{} [nlmixr2]{} [rxode2]{} [mrgsolve]{} [PKNCA]{} [NONMEM, familiar]{} [Monolix, familiar]{} [R]{} [Quarto]{}
+:::
+
+See these methods applied end to end in the [Projects](projects.qmd) section.

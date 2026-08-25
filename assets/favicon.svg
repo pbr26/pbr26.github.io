@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="PB monogram">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f2c49"/>
+      <stop offset="1" stop-color="#0a1a2f"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="url(#bg)"/>
+  <path d="M8 50 C 20 20, 26 18, 34 30 C 41 40, 48 47, 56 49"
+        fill="none" stroke="#12a6b8" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
+  <text x="32" y="41" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif"
+        font-size="30" font-weight="800" fill="#ffffff" letter-spacing="-1">PB</text>
+</svg>

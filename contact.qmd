@@ -1,0 +1,19 @@
+---
+title: "Contact"
+subtitle: "Open to conversations in quantitative pharmacology and drug development"
+description: "Get in touch with Pramod B R, pharmacokinetics, pharmacometrics, PK/PD, PBPK, DMPK, data science and scientific AI."
+toc: false
+---
+
+I am always glad to connect around **pharmacokinetics, pharmacometrics, population PK / PK-PD, exposure–response, PBPK, clinical pharmacology, DMPK / toxicokinetics, quantitative pharmacology, R and Python, scientific data science, and AI-assisted scientific computing**, including PhD, collaboration and role opportunities.
+
+::: {.panel .panel-accent}
+**Email:** [brpramod.careers@gmail.com](mailto:brpramod.careers@gmail.com)
+:::
+
+## Links
+
+- [GitHub, @pbr26](https://github.com/pbr26)
+- [LinkedIn, Pramod B R](https://www.linkedin.com/in/pramod-b-r)
+
+Based in Kushalnagara, India.

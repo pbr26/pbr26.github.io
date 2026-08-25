@@ -1,0 +1,64 @@
+---
+title: "Midazolam Clinical PK Report"
+subtitle: "A reproducible clinical pharmacokinetic analysis, published as a Quarto report"
+description: "A reproducible clinical pharmacokinetic analysis and report for midazolam, authored in R/Quarto and published via GitHub Pages."
+toc: true
+toc-location: right
+toc-title: On this page
+---
+
+```{=html}
+<div class="proj-meta">
+  <span class="chip"><b>Type</b> &nbsp;Clinical PK analysis &amp; reporting</span>
+  <span class="chip"><b>Tools</b> &nbsp;R · Quarto</span>
+  <span class="chip"><b>Output</b> &nbsp;Published report (GitHub Pages)</span>
+</div>
+```
+
+::: {.panel .panel-accent}
+**At a glance.** A reproducible clinical pharmacokinetic analysis of midazolam, authored in R and rendered to a self-contained Quarto report published via GitHub Pages. The full analysis — narrative, figures and tables — lives in the published report linked below.
+:::
+
+## Overview
+
+This project packages a clinical pharmacokinetic analysis of midazolam as a reproducible, self-contained report. The emphasis is on a clean, transparent analysis-to-report pipeline: the analysis is authored once and rendered to a shareable web report, so the narrative, figures and tables stay in sync with the underlying code.
+
+## Why midazolam
+
+Midazolam is a short-acting benzodiazepine and a widely used clinical **CYP3A probe substrate**, which makes its pharmacokinetics a natural, well-characterised subject for a clinical PK reporting exercise and for illustrating a reproducible reporting workflow.
+
+## Approach
+
+The analysis follows the same reproducibility principles as the other projects in this portfolio: a scripted, version-controlled workflow in R, figures and tables generated directly from the analysis, and a Quarto report as the single published deliverable rendered to GitHub Pages.
+
+```{=html}
+<div class="workflow">
+  <span class="wf-step">Data</span><span class="wf-arrow">→</span>
+  <span class="wf-step">PK analysis (R)</span><span class="wf-arrow">→</span>
+  <span class="wf-step">Figures &amp; tables</span><span class="wf-arrow">→</span>
+  <span class="wf-step">Quarto report</span><span class="wf-arrow">→</span>
+  <span class="wf-step">Published site</span>
+</div>
+```
+
+## Read the full report
+
+The complete analysis — including its methods, figures and results — is best viewed in the published report itself:
+
+```{=html}
+<div class="hero-buttons" style="margin-top:1rem">
+  <a class="btn btn-solid" href="https://pbr26.github.io/midazolam-pk-report/" target="_blank" rel="noopener">Open the published report →</a>
+  <a class="btn btn-outline-dark" href="https://github.com/pbr26/midazolam-pk-report" target="_blank" rel="noopener">GitHub repository</a>
+</div>
+```
+
+::: {.panel .panel-note}
+This page is a portfolio summary; the authoritative content is the published report. It is an educational/portfolio analysis and is not intended for clinical use.
+:::
+
+## Source code
+
+- **Published report:** <https://pbr26.github.io/midazolam-pk-report/>
+- **Repository:** [github.com/pbr26/midazolam-pk-report](https://github.com/pbr26/midazolam-pk-report)
+
+[← All projects](../projects.qmd)

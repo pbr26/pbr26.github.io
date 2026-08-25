@@ -1,0 +1,68 @@
+---
+title: "Research"
+subtitle: "Interests across quantitative, clinical and computational pharmacology"
+description: "Research interests spanning quantitative pharmacology, clinical pharmacology, PBPK/DMPK, pharmacometric simulation, data science and scientific AI."
+toc: true
+toc-location: right
+toc-title: On this page
+---
+
+My research interests sit at the intersection of **pharmacokinetics, pharmacometrics, quantitative pharmacology and computational drug development**, with a long-term direction toward model-informed drug development (MIDD).
+
+## Where I focus today
+
+```{=html}
+<div class="tier-grid">
+  <div class="tier pro">
+    <span class="tier-tag">Current expertise</span>
+    <h4>Established, work-grade</h4>
+    <ul>
+      <li>Clinical &amp; preclinical PK / NCA</li>
+      <li>Exposure &amp; bioavailability assessment</li>
+      <li>PK dataset construction &amp; QC</li>
+      <li>DMPK / toxicokinetics interpretation</li>
+      <li>Regulatory-compliant reporting</li>
+    </ul>
+  </div>
+  <div class="tier work">
+    <span class="tier-tag">Current projects</span>
+    <h4>Actively building</h4>
+    <ul>
+      <li>Population PK &amp; PK/PD modelling</li>
+      <li>PBPK / mechanistic modelling</li>
+      <li>Model-based meta-analysis</li>
+      <li>Pharmacometric simulation</li>
+      <li>Reproducible R workflows</li>
+    </ul>
+  </div>
+  <div class="tier dev">
+    <span class="tier-tag">Future direction</span>
+    <h4>Where I am heading</h4>
+    <ul>
+      <li>Model-informed drug development</li>
+      <li>Exposure–response &amp; MIDD methods</li>
+      <li>Translational / clinical pharmacology</li>
+      <li>AI-assisted quantitative pharmacology</li>
+      <li>A fully-funded PhD in the field</li>
+    </ul>
+  </div>
+</div>
+```
+
+## Themes
+
+### Quantitative pharmacology
+Population PK, PK/PD modelling and simulation, exposure–response analysis, pharmacometric simulation and translational modelling.
+
+### Clinical pharmacology
+Clinical PK, exposure and bioavailability, dose selection and study-design support, exposure–response relationships and early-phase development.
+
+### Preclinical / DMPK
+DMPK, toxicokinetics, preclinical PK, PK/TK interpretation, cold PK, metabolite identification and radiolabelled (¹⁴C) study support.
+
+### Computational science
+R for pharmacometric workflows, Python for scientific data analysis, reproducible research, scientific visualization, workflow automation and generative AI for scientific productivity.
+
+## Long-term direction
+
+> **Pharmacokinetics + Pharmacodynamics + Modelling + Simulation + Data Science + AI**, applied to model-informed drug development, translational and clinical pharmacology, and AI-assisted quantitative pharmacology.

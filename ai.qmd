@@ -1,0 +1,76 @@
+---
+title: "AI & Generative AI"
+subtitle: "Exploring generative AI as a human-in-the-loop layer for scientific computing"
+description: "How I use and am developing generative AI for scientific programming, research and workflow automation, with domain-expert review of every output."
+toc: true
+toc-location: right
+toc-title: On this page
+---
+
+I am exploring **generative AI and large language models as a productivity and engineering layer** for scientific computing, research, programming and workflow automation. The emphasis is **human-in-the-loop**: domain expertise remains responsible for scientific assumptions, model validity, numerical verification and interpretation.
+
+::: {.panel .panel-accent}
+**Credibility statement.** AI-generated code, models, statistics and scientific claims are treated as *assistive outputs* and require domain-expert review and independent validation before informing any scientific conclusion.
+:::
+
+## Where I am, honestly
+
+```{=html}
+<div class="tier-grid">
+  <div class="tier pro">
+    <span class="tier-tag">Currently using</span>
+    <h4>Day-to-day</h4>
+    <ul>
+      <li>AI-assisted R &amp; Python programming</li>
+      <li>Debugging &amp; code review</li>
+      <li>Technical documentation</li>
+      <li>Research brainstorming &amp; framing</li>
+      <li>Scientific writing assistance</li>
+      <li>Repetitive analysis / reporting support</li>
+    </ul>
+  </div>
+  <div class="tier work">
+    <span class="tier-tag">Developing</span>
+    <h4>Building skills</h4>
+    <ul>
+      <li>LLM APIs &amp; structured prompting</li>
+      <li>Retrieval-augmented generation (RAG)</li>
+      <li>Embeddings &amp; vector search</li>
+      <li>Structured AI workflows / agents</li>
+      <li>Local LLM experimentation</li>
+      <li>Scientific knowledge systems</li>
+    </ul>
+  </div>
+  <div class="tier dev">
+    <span class="tier-tag">Exploring</span>
+    <h4>Research interest</h4>
+    <ul>
+      <li>AI-assisted pharmacometrics</li>
+      <li>Automated PK data workflows</li>
+      <li>Diagnostic-plot generation</li>
+      <li>Literature intelligence</li>
+      <li>Reproducible-analysis generation</li>
+      <li>Model-development assistance</li>
+    </ul>
+  </div>
+</div>
+```
+
+## AI + pharmacology
+
+Potential applications I am investigating sit firmly downstream of domain expertise: PK data-processing automation, pharmacometric workflow scaffolding, automated diagnostic plotting, simulation-workflow development, literature intelligence and reproducible-report generation, each requiring scientific verification before use.
+
+## A responsible workflow
+
+```{=html}
+<div class="workflow">
+  <span class="wf-step">Domain expertise</span><span class="wf-arrow">→</span>
+  <span class="wf-step">AI assistance</span><span class="wf-arrow">→</span>
+  <span class="wf-step">Faster development</span><span class="wf-arrow">→</span>
+  <span class="wf-step">Human review</span><span class="wf-arrow">→</span>
+  <span class="wf-step">Scientific verification</span><span class="wf-arrow">→</span>
+  <span class="wf-step">Reproducible result</span>
+</div>
+```
+
+The value of AI here is speed and coverage, not authority. Scientific responsibility stays with the scientist.

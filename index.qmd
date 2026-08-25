@@ -1,0 +1,262 @@
+---
+pagetitle: "Pramod B R | Pharmacokinetics & Pharmacometrics"
+description: "Pharmacokinetics scientist building quantitative & computational pharmacology capability — PK/PD, population PK, PBPK, DMPK/TK, NCA, R, Python and scientific AI."
+toc: false
+anchor-sections: false
+---
+
+::: {.hero}
+::: {.hero-content}
+[Pharmacokinetics • Pharmacometrics • Drug Development]{.eyebrow}
+
+<div class="hero-name">Pramod B R</div>
+
+# Turning pharmacokinetic data into [reproducible quantitative insight]{.grad}. {.section-rule-none}
+
+::: {.hero-lead}
+I'm a pharmacokinetics scientist with more than five years in global CRO drug development, and I'm building deeper quantitative and computational capability in R and Python along the way.
+:::
+
+::: {.hero-buttons}
+[Explore Projects](projects.qmd){.btn .btn-primary}
+[About](about.qmd){.btn .btn-outline}
+[GitHub](https://github.com/pbr26){.btn .btn-outline}
+:::
+:::
+:::
+
+```{=html}
+<div class="stats-grid">
+  <div class="stat-card"><strong>5+</strong><span>Years in PK / drug development</span></div>
+  <div class="stat-card"><strong>4</strong><span>Peer-reviewed publications</span></div>
+  <div class="stat-card"><strong>R · Python</strong><span>Reproducible analysis &amp; simulation</span></div>
+  <div class="stat-card"><strong>Preclinical → Clinical</strong><span>PK / TK study support</span></div>
+</div>
+```
+
+## What I Do
+
+A pharmacology-first foundation, extended with quantitative modelling, programming and reproducible workflows.
+
+```{=html}
+<div class="card-grid">
+  <div class="portfolio-card">
+    <div class="card-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 3v18h18"/><path d="M3 15c4-9 7-9 9-4s5 5 9-6"/></svg></div>
+    <span class="card-number">01</span>
+    <h3>Clinical &amp; Preclinical PK</h3>
+    <p>Non-compartmental analysis, concentration–time profiling, exposure and bioavailability assessment, clearance, half-life and volume. This is the core of my day-to-day work.</p>
+    <span class="card-tech">Phoenix WinNonlin · NCA · R</span>
+  </div>
+  <div class="portfolio-card">
+    <div class="card-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="7" cy="8" r="3"/><circle cx="17" cy="16" r="3"/><path d="M10 8h7M7 11v5h4"/></svg></div>
+    <span class="card-number">02</span>
+    <h3>Population PK / PK-PD</h3>
+    <p>Building NLME workflows in R: structural model development, parameter estimation, covariate evaluation, GOF/VPC diagnostics and dosing simulation.</p>
+    <span class="card-tech">nlmixr2 · rxode2 · tidyverse</span>
+  </div>
+  <div class="portfolio-card">
+    <div class="card-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="16" height="16" rx="3"/><path d="M9 4v16M15 4v16M4 9h16M4 15h16"/></svg></div>
+    <span class="card-number">03</span>
+    <h3>PBPK / Mechanistic Modelling</h3>
+    <p>Physiologically based, perfusion-limited whole-body models built and simulated in R, validated against digitized clinical data. <em>A developing focus area.</em></p>
+    <span class="card-tech">mrgsolve · PBPK</span>
+  </div>
+  <div class="portfolio-card">
+    <div class="card-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16v6H4z"/><path d="M4 14h16v6H4z"/><path d="M8 7h.01M8 17h.01"/></svg></div>
+    <span class="card-number">04</span>
+    <h3>DMPK &amp; Toxicokinetics</h3>
+    <p>PK/TK dataset construction and QC, exposure assessment, and support for cold PK, metabolite identification and radiolabelled (¹⁴C) study designs.</p>
+    <span class="card-tech">TK · Data QC · Exposure</span>
+  </div>
+  <div class="portfolio-card">
+    <div class="card-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M8 3H5a2 2 0 0 0-2 2v3M16 3h3a2 2 0 0 1 2 2v3M8 21H5a2 2 0 0 1-2-2v-3M16 21h3a2 2 0 0 0 2-2v-3"/><circle cx="12" cy="12" r="3"/></svg></div>
+    <span class="card-number">05</span>
+    <h3>Data Science &amp; Reproducibility</h3>
+    <p>R and Python for data processing, visualization, automation and reproducible reporting with Quarto and Git — applied to pharmacometric workflows.</p>
+    <span class="card-tech">R · Python · Quarto · Git</span>
+  </div>
+  <div class="portfolio-card">
+    <div class="card-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="8" width="14" height="12" rx="3"/><path d="M12 8V4M9 3h6M9 14h.01M15 14h.01M9 18h6"/></svg></div>
+    <span class="card-number">06</span>
+    <h3>Scientific &amp; Generative AI</h3>
+    <p>Human-in-the-loop use of LLMs for programming, documentation and research support, always with domain review of every output. <em>An area I am actively exploring.</em></p>
+    <span class="card-tech">AI-assisted workflows</span>
+  </div>
+</div>
+```
+
+## Featured Projects
+
+Independent, reproducible pharmacometric projects, each with data provenance, model structure, diagnostics and results in a public repository.
+
+```{=html}
+<div class="project-grid">
+  <a class="project-card" href="projects/warfarin.html">
+    <span class="project-tag">POPULATION PK/PD</span>
+    <h3>Warfarin PK/PD Reproduction</h3>
+    <p>Reproduces a published warfarin turnover–E<sub>max</sub> model on real data, then implements the Hamberg genotype–INR structure by simulation and recovers its parameters. <b>6 / 6 verdict parameters reproduced.</b></p>
+    <span class="project-link">View project →</span>
+  </a>
+  <a class="project-card" href="projects/theophylline.html">
+    <span class="project-tag">POPULATION PK</span>
+    <h3>Theophylline Population PK</h3>
+    <p>End-to-end PopPK on the classic Theoph dataset: EDA, NCA, base and IIV models, weight covariate, GOF/VPC diagnostics and clinical simulation.</p>
+    <span class="project-link">View project →</span>
+  </a>
+  <a class="project-card" href="projects/caffeine-pbpk.html">
+    <span class="project-tag">PBPK</span>
+    <h3>Caffeine PBPK</h3>
+    <p>Whole-body perfusion-limited PBPK in <code>mrgsolve</code>, validated against digitized clinical profiles. <b>AAFE ≈ 1.3, 100% within 2-fold.</b></p>
+    <span class="project-link">View project →</span>
+  </a>
+  <a class="project-card" href="projects/acetaminophen-mbma.html">
+    <span class="project-tag">MODEL-BASED META-ANALYSIS</span>
+    <h3>Acetaminophen MBMA</h3>
+    <p>Model-based meta-analysis of oral acetaminophen PK from published aggregate data, with a PRISMA-style selection workflow and structural model comparison.</p>
+    <span class="project-link">View project →</span>
+  </a>
+</div>
+```
+
+[Browse all projects →](projects.qmd)
+
+## Technical Stack
+
+::: {.tech-row}
+[R]{} [Python]{} [Phoenix WinNonlin]{} [nlmixr2]{} [rxode2]{} [mrgsolve]{} [NONMEM (familiar)]{} [Monolix (familiar)]{} [tidyverse]{} [ggplot2]{} [data.table]{} [PKNCA]{} [Quarto]{} [Git / GitHub]{}
+:::
+
+## How I Work
+
+A consistent, reproducible pharmacometric workflow — from scientific question to reproducible report.
+
+```{=html}
+<div class="workflow">
+  <span class="wf-step">Scientific question</span><span class="wf-arrow">→</span>
+  <span class="wf-step">Data &amp; QC</span><span class="wf-arrow">→</span>
+  <span class="wf-step">EDA</span><span class="wf-arrow">→</span>
+  <span class="wf-step">Model</span><span class="wf-arrow">→</span>
+  <span class="wf-step">Diagnostics</span><span class="wf-arrow">→</span>
+  <span class="wf-step">Simulation</span><span class="wf-arrow">→</span>
+  <span class="wf-step">Interpretation</span>
+</div>
+```
+
+## Explore a PK Model
+
+A one-compartment oral model, live. Drag the sliders to see how dose and disposition shape the concentration–time curve and the exposure metrics.
+
+```{=html}
+<div class="pk-sim">
+  <div class="pk-controls">
+    <label>Dose <b><span id="pk-dose-v">100</span> mg</b>
+      <input type="range" id="pk-dose" min="25" max="500" step="25" value="100" aria-label="Dose in mg"></label>
+    <label>k<sub>a</sub> <b><span id="pk-ka-v">1.0</span> /h</b>
+      <input type="range" id="pk-ka" min="0.2" max="3" step="0.1" value="1.0" aria-label="Absorption rate constant"></label>
+    <label>CL <b><span id="pk-cl-v">5.0</span> L/h</b>
+      <input type="range" id="pk-cl" min="1" max="20" step="0.5" value="5" aria-label="Clearance"></label>
+    <label>V <b><span id="pk-v-v">30</span> L</b>
+      <input type="range" id="pk-v" min="10" max="80" step="5" value="30" aria-label="Volume of distribution"></label>
+  </div>
+  <div class="pk-plot">
+    <svg id="pk-svg" viewBox="0 0 660 340" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Simulated concentration versus time curve"></svg>
+  </div>
+  <div class="pk-metrics">
+    <div><strong id="pk-cmax">–</strong><span>C<sub>max</sub> (mg/L)</span></div>
+    <div><strong id="pk-tmax">–</strong><span>T<sub>max</sub> (h)</span></div>
+    <div><strong id="pk-auc">–</strong><span>AUC<sub>0–∞</sub> (mg·h/L)</span></div>
+    <div><strong id="pk-thalf">–</strong><span>t½ (h)</span></div>
+  </div>
+</div>
+<p class="pk-note">Decorative one-compartment oral model (first-order absorption, F = 1) for illustration only — not derived from real study data.</p>
+<script>
+(function () {
+  var svg = document.getElementById('pk-svg');
+  if (!svg) return;
+  var NS = 'http://www.w3.org/2000/svg';
+  var W = 660, H = 340, m = {l: 56, r: 18, t: 20, b: 44};
+  var pw = W - m.l - m.r, ph = H - m.t - m.b, TMAX = 24;
+  var ids = ['dose','ka','cl','v'];
+  function val(id){ return parseFloat(document.getElementById('pk-'+id).value); }
+  function el(tag, attrs){ var e = document.createElementNS(NS, tag); for (var k in attrs) e.setAttribute(k, attrs[k]); return e; }
+  function conc(t, dose, ka, cl, v){
+    var ke = cl / v; if (Math.abs(ka - ke) < 1e-4) ka = ke * 1.0001;
+    return (dose * ka) / (v * (ka - ke)) * (Math.exp(-ke * t) - Math.exp(-ka * t));
+  }
+  function render(){
+    var dose = val('dose'), ka = val('ka'), cl = val('cl'), v = val('v'), ke = cl / v;
+    document.getElementById('pk-dose-v').textContent = dose;
+    document.getElementById('pk-ka-v').textContent = ka.toFixed(1);
+    document.getElementById('pk-cl-v').textContent = cl.toFixed(1);
+    document.getElementById('pk-v-v').textContent = v;
+    var tmax = Math.log(ka / ke) / (ka - ke);
+    var cmax = conc(tmax, dose, ka, cl, v);
+    var auc = dose / cl, thalf = Math.log(2) / ke;
+    document.getElementById('pk-cmax').textContent = cmax.toFixed(2);
+    document.getElementById('pk-tmax').textContent = tmax.toFixed(2);
+    document.getElementById('pk-auc').textContent = auc.toFixed(1);
+    document.getElementById('pk-thalf').textContent = thalf.toFixed(1);
+    var ymax = cmax * 1.15 || 1;
+    var X = function(t){ return m.l + (t / TMAX) * pw; };
+    var Y = function(c){ return m.t + ph - (c / ymax) * ph; };
+    while (svg.firstChild) svg.removeChild(svg.firstChild);
+    // grid + y ticks
+    var i, ny = 4;
+    for (i = 0; i <= ny; i++){
+      var cy = m.t + ph - (i / ny) * ph, cv = (ymax * i / ny);
+      svg.appendChild(el('line', {x1: m.l, y1: cy, x2: m.l + pw, y2: cy, stroke: '#e2e8ee', 'stroke-width': 1}));
+      var ty = el('text', {x: m.l - 8, y: cy + 4, 'text-anchor': 'end', 'font-size': 11, fill: '#5f6f7c'});
+      ty.textContent = cv.toFixed(cv < 10 ? 1 : 0); svg.appendChild(ty);
+    }
+    // x ticks
+    for (i = 0; i <= 6; i++){
+      var t = i * 4, cx = X(t);
+      svg.appendChild(el('line', {x1: cx, y1: m.t + ph, x2: cx, y2: m.t + ph + 5, stroke: '#c9d4dd', 'stroke-width': 1}));
+      var tx = el('text', {x: cx, y: m.t + ph + 20, 'text-anchor': 'middle', 'font-size': 11, fill: '#5f6f7c'});
+      tx.textContent = t; svg.appendChild(tx);
+    }
+    // axis labels
+    var xl = el('text', {x: m.l + pw / 2, y: H - 6, 'text-anchor': 'middle', 'font-size': 12, fill: '#33434f', 'font-weight': 600}); xl.textContent = 'Time (h)'; svg.appendChild(xl);
+    var yl = el('text', {x: 14, y: m.t + ph / 2, 'text-anchor': 'middle', 'font-size': 12, fill: '#33434f', 'font-weight': 600, transform: 'rotate(-90 14 ' + (m.t + ph / 2) + ')'}); yl.textContent = 'Concentration (mg/L)'; svg.appendChild(yl);
+    // curve
+    var d = '', a = '', n = 160, first = true;
+    for (i = 0; i <= n; i++){
+      var tt = (i / n) * TMAX, c = conc(tt, dose, ka, cl, v); if (c < 0) c = 0;
+      var px = X(tt), py = Y(c);
+      d += (first ? 'M' : 'L') + px.toFixed(1) + ' ' + py.toFixed(1) + ' ';
+      a += (first ? 'M' : 'L') + px.toFixed(1) + ' ' + py.toFixed(1) + ' ';
+      first = false;
+    }
+    a += 'L' + X(TMAX).toFixed(1) + ' ' + Y(0) + ' L' + X(0).toFixed(1) + ' ' + Y(0) + ' Z';
+    svg.appendChild(el('path', {d: a, fill: '#12a6b8', 'fill-opacity': 0.10, stroke: 'none'}));
+    svg.appendChild(el('path', {d: d, fill: 'none', stroke: '#1769aa', 'stroke-width': 2.6, 'stroke-linejoin': 'round'}));
+    // Tmax marker
+    svg.appendChild(el('line', {x1: X(tmax), y1: Y(cmax), x2: X(tmax), y2: Y(0), stroke: '#12a6b8', 'stroke-width': 1.4, 'stroke-dasharray': '4 4'}));
+    svg.appendChild(el('circle', {cx: X(tmax), cy: Y(cmax), r: 4.5, fill: '#0a1a2f', stroke: '#fff', 'stroke-width': 1.5}));
+  }
+  ids.forEach(function(id){ document.getElementById('pk-' + id).addEventListener('input', render); });
+  render();
+})();
+</script>
+```
+
+## Professional Snapshot
+
+**Associate Study Coordinator (PK/TK) — Labcorp, Bangalore**
+*April 2021 – Present*
+
+I support preclinical, translational and early-phase programs through independent PK analysis, analysis-ready dataset construction and QC, PK/PD and population-modelling workflows, and sponsor-ready reporting. Day to day, I work alongside bioanalytical scientists, study directors, toxicologists and sponsor PK leads.
+
+Along the way I've helped speed up interim PK/PD analysis turnaround by around **25%**, and as Lead Trainer I've helped cut analyst onboarding time by roughly **50%**.
+
+[Read the full professional profile →](about.qmd)
+
+## Scientific Approach
+
+> **Understand the pharmacology first. Build the quantitative model second. Use programming and AI to make the workflow reproducible, scalable and transparent.**
+
+## Connect
+
+- [GitHub — @pbr26](https://github.com/pbr26)
+- [LinkedIn — Pramod B R](https://www.linkedin.com/in/pramod-b-r)
+- [brpramod.careers@gmail.com](mailto:brpramod.careers@gmail.com)

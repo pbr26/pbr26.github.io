@@ -1,0 +1,95 @@
+---
+title: "Data & Code"
+subtitle: "The computational toolkit behind the pharmacometrics"
+description: "R, Python and reproducible-science tooling for pharmacokinetic analysis, population modelling, visualization and automation, with honest experience levels."
+toc: true
+toc-location: right
+toc-title: On this page
+---
+
+I use **R and Python** to support pharmacokinetic analysis, population modelling, visualization, automation and reproducible scientific workflows. The list below is deliberately honest about *level*, separating tools I use in professional practice from those I have working knowledge of and those I am actively developing.
+
+## Experience, honestly labelled
+
+```{=html}
+<div class="tier-grid">
+  <div class="tier pro">
+    <span class="tier-tag">Professional practice</span>
+    <h4>Day-to-day, work-grade</h4>
+    <ul>
+      <li>Phoenix WinNonlin (NCA)</li>
+      <li>PK dataset construction &amp; QC</li>
+      <li>R, tidyverse, ggplot2, data.table</li>
+      <li>Tables, listings &amp; figures (TLFs)</li>
+      <li>Regulatory-compliant reporting</li>
+      <li>Excel · Veeva Vault · Documentum</li>
+    </ul>
+  </div>
+  <div class="tier work">
+    <span class="tier-tag">Working knowledge</span>
+    <h4>Used in real projects</h4>
+    <ul>
+      <li>nlmixr2 · rxode2 · mrgsolve</li>
+      <li>PKNCA</li>
+      <li>Python, pandas, NumPy, matplotlib</li>
+      <li>Git / GitHub · Quarto</li>
+      <li>SPSS · SigmaPlot · Spotfire</li>
+      <li>Linux (Ubuntu) · macOS</li>
+    </ul>
+  </div>
+  <div class="tier dev">
+    <span class="tier-tag">Currently developing</span>
+    <h4>Deepening / exploring</h4>
+    <ul>
+      <li>NONMEM · Monolix (familiar → deeper)</li>
+      <li>SciPy · scikit-learn (ML)</li>
+      <li>APIs &amp; automation (e.g. FastAPI)</li>
+      <li>Advanced simulation &amp; PBPK tooling</li>
+      <li>Workflow &amp; reporting automation</li>
+      <li>AI-assisted analysis pipelines</li>
+    </ul>
+  </div>
+</div>
+```
+
+## R
+
+R is my primary language for pharmacometric work.
+
+**Current applications:** PK data processing, exploratory data analysis, population PK / PK-PD workflows, simulation, model diagnostics, data visualization, automated plotting and reporting, and reproducible analysis.
+
+::: {.tech-row}
+[tidyverse]{} [ggplot2]{} [data.table]{} [nlmixr2]{} [rxode2]{} [mrgsolve]{} [PKNCA]{} [Quarto]{}
+:::
+
+## Python
+
+Python complements R for scientific computing and general data work.
+
+**Applications:** scientific computing, data processing, statistical analysis, visualization, and automation, with API-based and machine-learning workflows as a developing area rather than established expertise.
+
+::: {.tech-row}
+[pandas]{} [NumPy]{} [matplotlib]{} [SciPy, developing]{} [scikit-learn, developing]{} [Jupyter]{}
+:::
+
+## Reproducibility
+
+Projects are structured so results can be regenerated from data with a single entry point:
+
+```{=html}
+<div class="workflow">
+  <span class="wf-step">Data</span><span class="wf-arrow">→</span>
+  <span class="wf-step">Cleaning / QC</span><span class="wf-arrow">→</span>
+  <span class="wf-step">Analysis</span><span class="wf-arrow">→</span>
+  <span class="wf-step">Model</span><span class="wf-arrow">→</span>
+  <span class="wf-step">Diagnostics</span><span class="wf-arrow">→</span>
+  <span class="wf-step">Simulation</span><span class="wf-arrow">→</span>
+  <span class="wf-step">Report</span>
+</div>
+```
+
+Version control is maintained through **Git / GitHub**; **Quarto** is used for this portfolio and for reproducible reporting; and, where practical, dependencies are locked (e.g. `renv`) so an analysis restores to a known environment. Every project in the [Projects](projects.qmd) section is a public, reproducible repository.
+
+## Other analytical tools
+
+SPSS · SigmaPlot · Spotfire · Microsoft Excel (advanced), used for statistics, plotting and data handling alongside the R/Python stack.
