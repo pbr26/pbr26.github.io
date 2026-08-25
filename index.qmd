@@ -14,7 +14,7 @@ anchor-sections: false
 # Turning pharmacokinetic data into [reproducible quantitative insight]{.grad}. {.section-rule-none}
 
 ::: {.hero-lead}
-I'm a pharmacokinetics scientist with more than five years in global CRO drug development, and I'm building deeper quantitative and computational capability in R and Python along the way.
+I'm a pharmacokinetics analyst with more than five years in global CRO drug development, and I'm building deeper quantitative and computational capability in R and Python along the way.
 :::
 
 ::: {.hero-buttons}
