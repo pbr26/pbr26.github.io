@@ -7,7 +7,7 @@ toc-location: right
 toc-title: On this page
 ---
 
-I use **R and Python** to support pharmacokinetic analysis, population modelling, visualization, automation and reproducible scientific workflows. The list below is deliberately honest about *level*, separating tools I use in professional practice from those I have working knowledge of and those I am actively developing.
+**R** is my main language for pharmacokinetic analysis, population modelling, visualization, automation and reproducible scientific workflows, and I'm **actively learning Python** alongside it. The list below is deliberately honest about *level*, separating tools I use in professional practice from those I have working knowledge of and those I am still developing.
 
 ## Experience, honestly labelled
 
@@ -31,7 +31,6 @@ I use **R and Python** to support pharmacokinetic analysis, population modelling
     <ul>
       <li>nlmixr2 · rxode2 · mrgsolve</li>
       <li>PKNCA</li>
-      <li>Python, pandas, NumPy, matplotlib</li>
       <li>Git / GitHub · Quarto</li>
       <li>SPSS · SigmaPlot · Spotfire</li>
       <li>Linux (Ubuntu) · macOS</li>
@@ -41,6 +40,7 @@ I use **R and Python** to support pharmacokinetic analysis, population modelling
     <span class="tier-tag">Currently developing</span>
     <h4>Deepening / exploring</h4>
     <ul>
+      <li>Python (pandas, NumPy, matplotlib) — learning</li>
       <li>NONMEM · Monolix (familiar → deeper)</li>
       <li>SciPy · scikit-learn (ML)</li>
       <li>APIs &amp; automation (e.g. FastAPI)</li>
@@ -64,12 +64,10 @@ R is my primary language for pharmacometric work.
 
 ## Python
 
-Python complements R for scientific computing and general data work.
-
-**Applications:** scientific computing, data processing, statistical analysis, visualization, and automation, with API-based and machine-learning workflows as a developing area rather than established expertise.
+Python is a language I'm actively learning, alongside my day-to-day R work. I'm building comfort with it for data processing, scientific computing and visualization, and I use it on personal projects to grow those skills rather than presenting it as established expertise yet.
 
 ::: {.tech-row}
-[pandas]{} [NumPy]{} [matplotlib]{} [SciPy, developing]{} [scikit-learn, developing]{} [Jupyter]{}
+[pandas — learning]{} [NumPy — learning]{} [matplotlib — learning]{} [Jupyter]{}
 :::
 
 ## Reproducibility

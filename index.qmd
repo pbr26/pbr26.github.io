@@ -72,8 +72,8 @@ A pharmacology-first foundation, extended with quantitative modelling, programmi
     <div class="card-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M8 3H5a2 2 0 0 0-2 2v3M16 3h3a2 2 0 0 1 2 2v3M8 21H5a2 2 0 0 1-2-2v-3M16 21h3a2 2 0 0 0 2-2v-3"/><circle cx="12" cy="12" r="3"/></svg></div>
     <span class="card-number">05</span>
     <h3>Data Science &amp; Reproducibility</h3>
-    <p>R and Python for data processing, visualization, automation and reproducible reporting with Quarto and Git — applied to pharmacometric workflows.</p>
-    <span class="card-tech">R · Python · Quarto · Git</span>
+    <p>R for data processing, visualization, automation and reproducible reporting with Quarto and Git, with Python as a developing second language.</p>
+    <span class="card-tech">R · Python (learning) · Quarto · Git</span>
   </div>
   <div class="portfolio-card">
     <div class="card-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="8" width="14" height="12" rx="3"/><path d="M12 8V4M9 3h6M9 14h.01M15 14h.01M9 18h6"/></svg></div>
@@ -123,7 +123,7 @@ Independent, reproducible pharmacometric projects, each with data provenance, mo
 ## Technical Stack
 
 ::: {.tech-row}
-[R]{} [Python]{} [Phoenix WinNonlin]{} [nlmixr2]{} [rxode2]{} [mrgsolve]{} [NONMEM (familiar)]{} [Monolix (familiar)]{} [tidyverse]{} [ggplot2]{} [data.table]{} [PKNCA]{} [Quarto]{} [Git / GitHub]{}
+[R]{} [Python (learning)]{} [Phoenix WinNonlin]{} [nlmixr2]{} [rxode2]{} [mrgsolve]{} [NONMEM (familiar)]{} [Monolix (familiar)]{} [tidyverse]{} [ggplot2]{} [data.table]{} [PKNCA]{} [Quarto]{} [Git / GitHub]{}
 :::
 
 ## How I Work
@@ -245,9 +245,7 @@ A one-compartment oral model, live. Drag the sliders to see how dose and disposi
 **Associate Study Coordinator (PK/TK) — Labcorp, Bangalore**
 *April 2021 – Present*
 
-I support preclinical, translational and early-phase programs through independent PK analysis, analysis-ready dataset construction and QC, PK/PD and population-modelling workflows, and sponsor-ready reporting. Day to day, I work alongside bioanalytical scientists, study directors, toxicologists and sponsor PK leads.
-
-Along the way I've helped speed up interim PK/PD analysis turnaround by around **25%**, and as Lead Trainer I've helped cut analyst onboarding time by roughly **50%**.
+I support preclinical PK and toxicokinetic (PK/TK) programs through independent PK and PK/PD analysis, analysis-ready dataset construction and QC, and sponsor-ready reporting. Day to day, I work alongside bioanalytical scientists, study directors, toxicologists and sponsor PK leads.
 
 [Read the full professional profile →](about.qmd)
 

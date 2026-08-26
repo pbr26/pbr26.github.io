@@ -9,7 +9,7 @@ toc-title: On this page
 
 ## Professional profile
 
-I am a pharmacokinetics scientist with more than five years of experience in global CRO environments, supporting preclinical, translational and early-phase clinical drug development.
+I am a pharmacokinetics scientist with more than five years of experience in a global CRO environment, focused on preclinical PK and toxicokinetics (PK/TK) in drug development.
 
 Most of my work centres on non-compartmental analysis, exposure and bioavailability assessment, building and QC of PK datasets, PK/PD and population PK workflows, and scientific reporting to regulatory standards. On top of that foundation I am steadily building deeper skills in pharmacometrics, model-informed drug development, exposure–response analysis, R-based NLME workflows, and reproducible computational pharmacology.
 
@@ -17,7 +17,7 @@ Most of my work centres on non-compartmental analysis, exposure and bioavailabil
 
 **Associate Study Coordinator (PK/TK), Labcorp, Bangalore** · *April 2021 – Present*
 
-- Independent non-compartmental PK analysis in Phoenix WinNonlin, across preclinical, translational and early-phase programs.
+- Independent non-compartmental PK/TK analysis in Phoenix WinNonlin across preclinical programs.
 - Sponsor-ready PK reporting, quality control and audit support, working closely with bioanalytical, toxicology and sponsor PK teams.
 
 I also help improve day-to-day analysis workflows and train new analysts on PK analysis and reproducible ways of working.
