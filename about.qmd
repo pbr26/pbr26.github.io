@@ -11,7 +11,7 @@ toc-title: On this page
 
 I am a pharmacokinetics scientist with more than five years of experience in a global CRO environment, focused on preclinical PK and toxicokinetics (PK/TK) in drug development.
 
-Most of my work centres on non-compartmental analysis, exposure and bioavailability assessment, building and QC of PK datasets, PK/PD and population PK workflows, and scientific reporting to regulatory standards. On top of that foundation I am steadily building deeper skills in pharmacometrics, model-informed drug development, exposure–response analysis, R-based NLME workflows, and reproducible computational pharmacology.
+Most of my current work centres on non-compartmental analysis, exposure and bioavailability assessment, building and QC of PK datasets, and scientific reporting to regulatory standards. Separately, outside my day-to-day role, I'm upskilling myself in pharmacometrics, model-informed drug development, exposure–response analysis, R-based NLME workflows, and reproducible computational pharmacology — the work you'll find in my [projects](projects.qmd).
 
 ## Current role
 

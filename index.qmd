@@ -14,7 +14,7 @@ anchor-sections: false
 # Turning pharmacokinetic data into [reproducible quantitative insight]{.grad}. {.section-rule-none}
 
 ::: {.hero-lead}
-I'm a pharmacokinetics analyst with more than five years in global CRO drug development, and I'm building deeper quantitative and computational capability in R and Python along the way.
+I'm a pharmacokinetics analyst with more than five years in global CRO drug development, focused on preclinical PK and toxicokinetics (PK/TK).
 :::
 
 ::: {.hero-buttons}
@@ -239,15 +239,6 @@ A one-compartment oral model, live. Drag the sliders to see how dose and disposi
 })();
 </script>
 ```
-
-## Professional Snapshot
-
-**Associate Study Coordinator (PK/TK) — Labcorp, Bangalore**
-*April 2021 – Present*
-
-I support preclinical PK and toxicokinetic (PK/TK) programs through independent PK and PK/PD analysis, analysis-ready dataset construction and QC, and sponsor-ready reporting. Day to day, I work alongside bioanalytical scientists, study directors, toxicologists and sponsor PK leads.
-
-[Read the full professional profile →](about.qmd)
 
 ## Scientific Approach
 
